@@ -1,0 +1,144 @@
+Running V30pll_heuristic_ChinaTelecom_hop.py...
+Progress: 1/10 runs completed
+Progress: 2/10 runs completed
+Progress: 3/10 runs completed
+Progress: 4/10 runs completed
+Progress: 5/10 runs completed
+Progress: 6/10 runs completed
+Progress: 7/10 runs completed
+Progress: 8/10 runs completed
+Progress: 9/10 runs completed
+Progress: 10/10 runs completed
+
+Script: V30pll_heuristic_ChinaTelecom_hop.py
+Average Maximum Utilization: 76.70%
+Average Hop Count: 2.91
+-------------------------------
+Running V30pll_heuristic_ChinaTelecom_ECMP1_hop.py...
+Progress: 1/10 runs completed
+Progress: 2/10 runs completed
+Progress: 3/10 runs completed
+Progress: 4/10 runs completed
+Progress: 5/10 runs completed
+Progress: 6/10 runs completed
+Progress: 7/10 runs completed
+Progress: 8/10 runs completed
+Progress: 9/10 runs completed
+Progress: 10/10 runs completed
+
+Script: V30pll_heuristic_ChinaTelecom_ECMP1_hop.py
+Average Maximum Utilization: 74.10%
+Average Hop Count: 3.50
+-------------------------------
+Running V30pll_heuristic_ChinaTelecom_ECMP2_hop.py...
+Progress: 1/10 runs completed
+Progress: 2/10 runs completed
+Progress: 3/10 runs completed
+Progress: 4/10 runs completed
+Progress: 5/10 runs completed
+Progress: 6/10 runs completed
+Progress: 7/10 runs completed
+Progress: 8/10 runs completed
+Progress: 9/10 runs completed
+Progress: 10/10 runs completed
+
+Script: V30pll_heuristic_ChinaTelecom_ECMP2_hop.py
+Average Maximum Utilization: 85.70%
+Average Hop Count: 3.21
+-------------------------------
+Running V30pll_heuristic2_ChinaTelecom_hop.py...
+Progress: 1/10 runs completed
+Progress: 2/10 runs completed
+Progress: 3/10 runs completed
+Progress: 4/10 runs completed
+Progress: 5/10 runs completed
+Progress: 6/10 runs completed
+Progress: 7/10 runs completed
+Progress: 8/10 runs completed
+Progress: 9/10 runs completed
+Progress: 10/10 runs completed
+
+Script: V30pll_heuristic2_ChinaTelecom_hop.py
+Average Maximum Utilization: 67.10%
+Average Hop Count: 2.60
+-------------------------------
+Running V31pll_heuristic2_ChinaTelecom_ECMP1_hop.py...
+Progress: 1/10 runs completed
+Progress: 2/10 runs completed
+Progress: 3/10 runs completed
+Progress: 4/10 runs completed
+Progress: 5/10 runs completed
+Progress: 6/10 runs completed
+Progress: 7/10 runs completed
+Progress: 8/10 runs completed
+Progress: 9/10 runs completed
+Progress: 10/10 runs completed
+
+Script: V31pll_heuristic2_ChinaTelecom_ECMP1_hop.py
+Average Maximum Utilization: 67.41%
+Average Hop Count: 2.68
+-------------------------------
+Running V31pll_heuristic2_ChinaTelecom_ECMP2_hop.py...
+Progress: 1/10 runs completed
+Progress: 2/10 runs completed
+Progress: 3/10 runs completed
+Progress: 4/10 runs completed
+Progress: 5/10 runs completed
+Progress: 6/10 runs completed
+Progress: 7/10 runs completed
+Progress: 8/10 runs completed
+Progress: 9/10 runs completed
+Progress: 10/10 runs completed
+
+Script: V31pll_heuristic2_ChinaTelecom_ECMP2_hop.py
+Average Maximum Utilization: 78.15%
+Average Hop Count: 2.72
+-------------------------------
+Running V30pll_heuristic3_ChinaTelecom_hop.py...
+Progress: 1/10 runs completed
+Progress: 2/10 runs completed
+Progress: 3/10 runs completed
+Progress: 4/10 runs completed
+Progress: 5/10 runs completed
+Progress: 6/10 runs completed
+Progress: 7/10 runs completed
+Progress: 8/10 runs completed
+Progress: 9/10 runs completed
+Progress: 10/10 runs completed
+
+Script: V30pll_heuristic3_ChinaTelecom_hop.py
+Average Maximum Utilization: 68.60%
+Average Hop Count: 2.57
+-------------------------------
+Running V31pll_heuristic3_ChinaTelecom_ECMP1_hop.py...
+Progress: 1/10 runs completed
+Progress: 2/10 runs completed
+Progress: 3/10 runs completed
+Progress: 4/10 runs completed
+Progress: 5/10 runs completed
+Progress: 6/10 runs completed
+Progress: 7/10 runs completed
+Progress: 8/10 runs completed
+Progress: 9/10 runs completed
+Progress: 10/10 runs completed
+
+Script: V31pll_heuristic3_ChinaTelecom_ECMP1_hop.py
+Average Maximum Utilization: 71.95%
+Average Hop Count: 2.65
+-------------------------------
+Running V31pll_heuristic3_ChinaTelecom_ECMP2_hop.py...
+Progress: 1/10 runs completed
+Progress: 2/10 runs completed
+Progress: 3/10 runs completed
+Progress: 4/10 runs completed
+Progress: 5/10 runs completed
+Progress: 6/10 runs completed
+Progress: 7/10 runs completed
+Progress: 8/10 runs completed
+Progress: 9/10 runs completed
+Progress: 10/10 runs completed
+
+Script: V31pll_heuristic3_ChinaTelecom_ECMP2_hop.py
+Average Maximum Utilization: 92.10%
+Average Hop Count: 2.68
+-------------------------------
